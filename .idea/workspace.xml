@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f8abf26-8c05-4753-b29d-3bb3c7b20c3e" name="Changes" comment="create load_path_video and load_path_thum">
-      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
+    <list default="true" id="2f8abf26-8c05-4753-b29d-3bb3c7b20c3e" name="Changes" comment="modify">
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669192135880</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="modify">
+      <created>1669192307578</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1669192307578</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,7 +234,6 @@
     <MESSAGE value="import os" />
     <MESSAGE value="add installedapp" />
     <MESSAGE value="add middleware" />
-    <MESSAGE value="modify" />
     <MESSAGE value="add whitelist" />
     <MESSAGE value="add permission and authentication" />
     <MESSAGE value="add setting of simplejwt" />
@@ -242,6 +248,7 @@
     <MESSAGE value="create User model" />
     <MESSAGE value="create Video model" />
     <MESSAGE value="create load_path_video and load_path_thum" />
-    <option name="LAST_COMMIT_MESSAGE" value="create load_path_video and load_path_thum" />
+    <MESSAGE value="modify" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify" />
   </component>
 </project>
