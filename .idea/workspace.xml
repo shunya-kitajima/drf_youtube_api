@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f8abf26-8c05-4753-b29d-3bb3c7b20c3e" name="Changes" comment="add url">
+    <list default="true" id="2f8abf26-8c05-4753-b29d-3bb3c7b20c3e" name="Changes" comment="import modules">
       <change beforePath="$PROJECT_DIR$/youtube_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/youtube_api/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669189599952</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="import modules">
+      <created>1669189663800</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669189663800</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +194,7 @@
     <MESSAGE value="delete comment" />
     <MESSAGE value="add file" />
     <MESSAGE value="add url" />
-    <option name="LAST_COMMIT_MESSAGE" value="add url" />
+    <MESSAGE value="import modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="import modules" />
   </component>
 </project>
