@@ -76,6 +76,11 @@ REST_FRAMEWORK = {
     ]
 }
 
+SIMPLE_JWT = {
+    "AUTH_HEADER_TYPES": ("JWT", ),
+    "ACCESS_TOKEN_LIFETIME": timedelta(minutes=30),
+}
+
 
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
