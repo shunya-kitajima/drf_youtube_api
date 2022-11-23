@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f8abf26-8c05-4753-b29d-3bb3c7b20c3e" name="Changes" comment="set media path">
+    <list default="true" id="2f8abf26-8c05-4753-b29d-3bb3c7b20c3e" name="Changes" comment="add AUTH_USER_MODEL">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube_api/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/youtube_api/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/youtube_api/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669185056484</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add AUTH_USER_MODEL">
+      <created>1669185138355</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669185138355</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +157,7 @@
     <MESSAGE value="add permission and authentication" />
     <MESSAGE value="add setting of simplejwt" />
     <MESSAGE value="set media path" />
-    <option name="LAST_COMMIT_MESSAGE" value="set media path" />
+    <MESSAGE value="add AUTH_USER_MODEL" />
+    <option name="LAST_COMMIT_MESSAGE" value="add AUTH_USER_MODEL" />
   </component>
 </project>
