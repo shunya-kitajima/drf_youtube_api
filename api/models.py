@@ -35,3 +35,15 @@ class User(AbstractBaseUser, PermissionsMixin):
 
     def __str__(self):
         return self.email
+
+
+class Video(models.Model):
+    id = models.UUIDField(default=uuid.uuid4, primary_key=True, editable=False)
+    title = models.CharField(max_length=30, blank=False)
+    video = models.FileField(blank=False, upload_to=load_path_video)
+    thum = models.ImageField(blank=False, upload_to=load_path_thum)
+    like = models.IntegerField(default=0)
+    dislike = models.IntegerField(default=0)
+
+    def __str__(self):
+        return self.title
