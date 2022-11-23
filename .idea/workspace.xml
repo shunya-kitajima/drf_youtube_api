@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f8abf26-8c05-4753-b29d-3bb3c7b20c3e" name="Changes" comment="create Video model">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2f8abf26-8c05-4753-b29d-3bb3c7b20c3e" name="Changes" comment="create load_path_video and load_path_thum">
       <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669191589684</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="create load_path_video and load_path_thum">
+      <created>1669192135880</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669192135880</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +241,7 @@
     <MESSAGE value="create UserManager model" />
     <MESSAGE value="create User model" />
     <MESSAGE value="create Video model" />
-    <option name="LAST_COMMIT_MESSAGE" value="create Video model" />
+    <MESSAGE value="create load_path_video and load_path_thum" />
+    <option name="LAST_COMMIT_MESSAGE" value="create load_path_video and load_path_thum" />
   </component>
 </project>
