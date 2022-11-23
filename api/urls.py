@@ -5,5 +5,5 @@ from django.conf.urls import include
 router = routers.DefaultRouter()
 
 urlpatterns = [
-    path("")
+    path("", include(router.urls))
 ]
