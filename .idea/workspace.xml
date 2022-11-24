@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f8abf26-8c05-4753-b29d-3bb3c7b20c3e" name="Changes" comment="set path">
-      <change beforePath="$PROJECT_DIR$/youtube_api/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/youtube_api/settings.py" afterDir="false" />
+    <list default="true" id="2f8abf26-8c05-4753-b29d-3bb3c7b20c3e" name="Changes" comment="migrate model data">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669192665063</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="modify">
+      <created>1669192810527</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1669192810527</updated>
+    </task>
+    <task id="LOCAL-00026" summary="migrate model data">
+      <created>1669192952847</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1669192952847</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,10 +284,11 @@
     <MESSAGE value="create User model" />
     <MESSAGE value="create Video model" />
     <MESSAGE value="create load_path_video and load_path_thum" />
-    <MESSAGE value="modify" />
     <MESSAGE value="import modlues" />
     <MESSAGE value="set defaultRouter and urlpatterns" />
     <MESSAGE value="set path" />
-    <option name="LAST_COMMIT_MESSAGE" value="set path" />
+    <MESSAGE value="modify" />
+    <MESSAGE value="migrate model data" />
+    <option name="LAST_COMMIT_MESSAGE" value="migrate model data" />
   </component>
 </project>
