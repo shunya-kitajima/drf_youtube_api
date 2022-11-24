@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f8abf26-8c05-4753-b29d-3bb3c7b20c3e" name="Changes" comment="add user">
-      <change afterPath="$PROJECT_DIR$/api/serializers.py" afterDir="false" />
+    <list default="true" id="2f8abf26-8c05-4753-b29d-3bb3c7b20c3e" name="Changes" comment="add file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/serializers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -301,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669265842328</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="add file">
+      <created>1669266889471</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1669266889471</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,7 +332,6 @@
     <MESSAGE value="set media path" />
     <MESSAGE value="add AUTH_USER_MODEL" />
     <MESSAGE value="delete comment" />
-    <MESSAGE value="add file" />
     <MESSAGE value="add url" />
     <MESSAGE value="add urlpatterns MEDIA" />
     <MESSAGE value="create UserManager model" />
@@ -341,6 +347,7 @@
     <MESSAGE value="registration UserAdmin and User class" />
     <MESSAGE value="modify" />
     <MESSAGE value="add user" />
-    <option name="LAST_COMMIT_MESSAGE" value="add user" />
+    <MESSAGE value="add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file" />
   </component>
 </project>
